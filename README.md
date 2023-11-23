@@ -1,4 +1,5 @@
 # vetor
+estudo np2
 linguagem C
 
 #include <stdio.h>
